@@ -1,0 +1,7 @@
+all:
+  ice_libs:
+    routing:
+      secret: 'yWJ2wUvHwZDnub7MtZLh2Zknd8TFXQGa'
+    emails:
+      sender: 'no-reply@icepique.com'
+      notify: 'developers@icepique.com'

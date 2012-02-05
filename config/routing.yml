@@ -1,0 +1,5 @@
+ice_captcha_image:
+  url: /:sf_culture/captcha
+  param: { module: iceGlobalModule, action: captchaImage }
+  options: { extra_parameters_as_query_string: true }
+  requirements: { sf_format: html }

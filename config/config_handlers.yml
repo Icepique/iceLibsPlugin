@@ -1,0 +1,8 @@
+config/routing.yml:
+  class: IceHostAwareRoutingConfigHandler
+  file: "<?php echo dirname(__FILE__); ?>/../lib/routing/IceHostAwareRoutingConfigHandler.class.php"
+
+config/gatekeeper.yml:
+  class: sfDefineEnvironmentConfigHandler
+  param:
+    prefix: gatekeeper_

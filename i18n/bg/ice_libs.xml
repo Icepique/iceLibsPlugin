@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd"><xliff version="1.0">
+  <file source-language="en" target-language="bg" datatype="plaintext" original="ice_libs" date="2010-05-19T17:57:39Z" product-name="ice_libs" xml:space="default">
+    <header></header>
+    <body>
+      <trans-unit id="1">
+        <source>Rewrite the number</source>
+        <target xml:lang="bg">Препишете числото</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Reload the number</source>
+        <target xml:lang="bg">Презаредете числото</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

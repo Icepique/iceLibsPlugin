@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd"><xliff version="1.0">
+  <file source-language="en" target-language="bg" datatype="plaintext" original="ice_libs" date="2010-05-19T17:57:39Z" product-name="ice_libs" xml:space="default">
+    <header></header>
+    <body>
+      <trans-unit approved="no" id="1" reformat="yes" translate="yes" xml:space="default">
+        <source>%1% ago</source>
+        <target xml:lang="bg">преди %1%</target>
+      </trans-unit>
+      <trans-unit approved="no" id="2" reformat="yes" translate="yes" xml:space="default">
+        <source>less than a minute</source>
+        <target xml:lang="bg">по-малко от минута</target>
+      </trans-unit>
+      <trans-unit approved="no" id="3" reformat="yes" translate="yes" xml:space="default">
+        <source>less than 5 seconds</source>
+        <target xml:lang="bg">по-малко от 5 секунди</target>
+      </trans-unit>
+      <trans-unit approved="no" id="4" reformat="yes" translate="yes" xml:space="default">
+        <source>less than 10 seconds</source>
+        <target xml:lang="bg">по-малко от 10 секунди</target>
+      </trans-unit>
+      <trans-unit approved="no" id="5" reformat="yes" translate="yes" xml:space="default">
+        <source>less than 20 seconds</source>
+        <target xml:lang="bg">по-малко от 20 секунди</target>
+      </trans-unit>
+      <trans-unit approved="no" id="6" reformat="yes" translate="yes" xml:space="default">
+        <source>half a minute</source>
+        <target xml:lang="bg">половин минута</target>
+      </trans-unit>
+      <trans-unit approved="no" id="7" reformat="yes" translate="yes" xml:space="default">
+        <source>less than a minute</source>
+        <target xml:lang="bg">по-малко от минута</target>
+      </trans-unit>
+      <trans-unit approved="no" id="8" reformat="yes" translate="yes" xml:space="default">
+        <source>%minutes% minutes</source>
+        <target xml:lang="bg">%minutes% минути</target>
+      </trans-unit>
+      <trans-unit approved="no" id="9" reformat="yes" translate="yes" xml:space="default">
+        <source>about 1 hour</source>
+        <target xml:lang="bg">около 1 час</target>
+      </trans-unit>
+      <trans-unit approved="no" id="147" reformat="yes" translate="yes" xml:space="default">
+        <source>about %hours% hours</source>
+        <target xml:lang="bg">около %hours% часа</target>
+      </trans-unit>
+      <trans-unit approved="no" id="10" reformat="yes" translate="yes" xml:space="default">
+        <source>1 day</source>
+        <target xml:lang="bg">1 ден</target>
+      </trans-unit>
+      <trans-unit approved="no" id="11" reformat="yes" translate="yes" xml:space="default">
+        <source>%days% days</source>
+        <target xml:lang="bg">%days% дена</target>
+      </trans-unit>
+      <trans-unit approved="no" id="12" reformat="yes" translate="yes" xml:space="default">
+        <source>about 1 month</source>
+        <target xml:lang="bg">около 1 месец</target>
+      </trans-unit>
+      <trans-unit approved="no" id="13" reformat="yes" translate="yes" xml:space="default">
+        <source>%months% months</source>
+        <target xml:lang="bg">%months% месеца</target>
+      </trans-unit>
+      <trans-unit approved="no" id="14" reformat="yes" translate="yes" xml:space="default">
+        <source>about 1 year</source>
+        <target xml:lang="bg">около 1 година</target>
+      </trans-unit>
+      <trans-unit approved="no" id="15" reformat="yes" translate="yes" xml:space="default">
+        <source>over %years% years</source>
+        <target xml:lang="bg">повече от %years% години</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

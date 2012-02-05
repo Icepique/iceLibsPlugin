@@ -1,0 +1,1 @@
+The PHP files are under lib/ because that's how the symfony autoloading works (http://trac.symfony-project.org/browser/branches/1.4/lib/autoload/sfAutoload.class.php)
